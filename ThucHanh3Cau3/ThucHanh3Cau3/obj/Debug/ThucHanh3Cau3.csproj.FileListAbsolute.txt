@@ -1,0 +1,9 @@
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\bin\Debug\ThucHanh3Cau3.exe.config
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\bin\Debug\ThucHanh3Cau3.exe
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\bin\Debug\ThucHanh3Cau3.pdb
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\obj\Debug\ThucHanh3Cau3.csprojAssemblyReference.cache
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\obj\Debug\ThucHanh3Cau3.Properties.Resources.resources
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\obj\Debug\ThucHanh3Cau3.csproj.GenerateResource.cache
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\obj\Debug\ThucHanh3Cau3.exe
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\obj\Debug\ThucHanh3Cau3.pdb
+D:\Project\Project code\Project C-sharp Window Form\ThucHanh3Cau3\ThucHanh3Cau3\obj\Debug\ThucHanh3Cau3.Form2.resources
